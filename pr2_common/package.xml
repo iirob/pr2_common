@@ -16,8 +16,6 @@
 
   <run_depend>pr2_msgs</run_depend>
   <run_depend>pr2_dashboard_aggregator</run_depend>
-  <run_depend>pr2_description</run_depend>
-  <run_depend>pr2_machine</run_depend>
 
   <export>
     <metapackage/>
